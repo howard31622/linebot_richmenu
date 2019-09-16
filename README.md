@@ -1,7 +1,9 @@
 
-# postman 
-# linebot 
-# richmenu
+# postman # linebot # richmenu
+
+
+
+# task
 這個專門是給要寫程式去刻rich menu
 
 事前工作：下載Postman
