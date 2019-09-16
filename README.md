@@ -65,6 +65,8 @@ Content-Type : application/json
     ]
     }
 
+send
+
 之後會給你一組ID
 
 ## step2.
@@ -81,6 +83,12 @@ Content-Type : image/jpeg
 
 ### Body binary
 在這邊上傳你要的照片
+
+注意！！
+上傳的照片要按照官方的格式比較安全喔！！
+本實例為 2500 X 1686解析度
+
+send 
 
 當你回傳得到{}代表成功
 
