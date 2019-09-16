@@ -70,6 +70,7 @@ Content-Type : application/json
 ## step2.
 
 Post : https://api.line.me/v2/bot/richmenu/richmenu-83c7d096aefbca57480443468686017c/content
+
 注意！！ richmenu-83c7d096aefbca57480443468686017c要替換成你拿到的那組ID
 
 ### Authorization   
