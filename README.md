@@ -87,4 +87,7 @@ Content-Type : image/jpeg
 ## step3.
 
 Post : https://api.line.me/v2/bot/user/all/richmenu/richmenu-83c7d096aefbca57480443468686017c
+
+注意！！ richmenu-83c7d096aefbca57480443468686017c要替換成你拿到的那組ID
+
 send
