@@ -14,15 +14,15 @@ Token 的部分填自己line bot的Token
 Content-Type : application/json 
 ### Body raw
 
-{
-  "size": {
-    "width": 2500,
-    "height": 1686
-  },
-  "selected": true,
-  "name": "圖文選單 1",
-  "chatBarText": "下方有更多功能喔",
-  "areas": [
+    {
+     "size": {
+      "width": 2500,
+      "height": 1686
+      },
+    "selected": true,
+    "name": "圖文選單 1",
+    "chatBarText": "下方有更多功能喔",
+    "areas": [
     {
       "bounds": {
         "x": 0,
@@ -62,8 +62,8 @@ Content-Type : application/json
         "data": "action=getProducts"
       }
     }
-  ]
-}
+    ]
+    }
 
 之後會給你一組ID
 
